@@ -39,7 +39,7 @@ function m() {
                     <img
                         class="title-img"
                         width="70"
-                        src="../js/img/icons/clapping.svg"
+                        src="./js/img/icons/clapping.svg"
                         alt="Спасибо!"
                     />
                     <div class="title">Спасибо!</div>
@@ -55,7 +55,7 @@ function m() {
                         <a href="https://github.com/nadam131/html-css-course" target="_blank" class="bonus-card">
                             <img
                                 class="bonus-card__img"
-                                src="../js/img/icons/leaflet.svg"
+                                src="./js/img/icons/leaflet.svg"
                                 alt=""
                             />
                             <div class="bonus-card__title">
@@ -65,7 +65,7 @@ function m() {
                         <a href="https://www.youtube.com/watch?v=DPA9qzBJPaA" target="_blank" class="bonus-card">
                             <img
                                 class="bonus-card__img"
-                                src="../js/img/icons/video-tutorial.png"
+                                src="./js/img/icons/video-tutorial.png"
                                 alt=""
                             />
                             <div class="bonus-card__title">
@@ -413,7 +413,7 @@ function f() {
     <form action="#/final" method="POST" class="quiz-form">
        <section class="plate visible " data-progress >
             <header class="plate-header">
-                <img src="../js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
+                <img src="./js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
                 Ваш уровень знания верстки сайтов
             </header>
 
@@ -488,7 +488,7 @@ function f() {
 
         <section class="plate" data-progress data-count="2">
             <header class="plate-header">
-                <img src="../js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
+                <img src="./js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
                 Ваш уровень знания верстки сайтов
             </header>
 
@@ -565,7 +565,7 @@ function f() {
 
         <section class="plate" data-progress>
             <header class="plate-header">
-                <img src="../js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
+                <img src="./js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
                 Ваш уровень знания верстки сайтов
             </header>
 
@@ -586,7 +586,7 @@ function f() {
                             <div class="card-block__radio-fake"></div>
                         </div>
                         <div class="card-block__img">
-                            <img src="../js/img/pictures/mobile.jpg" alt="Img" />
+                            <img src="./js/img/pictures/mobile.jpg" alt="Img" />
                         </div>
                         <div class="card-block__text">
                             Мобильные приложения
@@ -606,7 +606,7 @@ function f() {
                             <div class="card-block__radio-fake"></div>
                         </div>
                         <div class="card-block__img">
-                            <img src="../js/img/pictures/browser.jpg" alt="Img" />
+                            <img src="./js/img/pictures/browser.jpg" alt="Img" />
                         </div>
                         <div class="card-block__text">
                             Сайты для всех браузеров и платформ
@@ -624,7 +624,7 @@ function f() {
                             <div class="card-block__radio-fake"></div>
                         </div>
                         <div class="card-block__img">
-                            <img src="../js/img/pictures/windows.jpg" alt="Img" />
+                            <img src="./js/img/pictures/windows.jpg" alt="Img" />
                         </div>
                         <div class="card-block__text">
                             Программы для Windows
@@ -643,7 +643,7 @@ function f() {
                             <div class="card-block__radio-fake"></div>
                         </div>
                         <div class="card-block__img">
-                            <img src="../js/img/pictures/linux.jpg" alt="Img" />
+                            <img src="./js/img/pictures/linux.jpg" alt="Img" />
                         </div>
                         <div class="card-block__text">
                             Программы для Linux
@@ -670,7 +670,7 @@ function f() {
 
         <section class="plate" data-progress >
             <header class="plate-header">
-                <img src="../js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
+                <img src="./js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
                 Ваш уровень знания верстки сайтов
             </header>
 
@@ -746,7 +746,7 @@ function f() {
 
         <section class="plate" data-progress >
             <header class="plate-header">
-                <img src="../js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
+                <img src="./js/img/icons/list.png" alt="Icon" class="plate-header__icon" />
                 Ваш уровень знания верстки сайтов
             </header>
 
@@ -824,7 +824,7 @@ function f() {
                         <img
                             class="title-img"
                             width="70"
-                            src="../js/img/icons/clapping.svg"
+                            src="./js/img/icons/clapping.svg"
                             alt="Отлично! Последний шаг!"
                         />
                         <div data-question class="title">Отлично! Последний шаг!</div>
@@ -990,7 +990,7 @@ function y() {
                 <section>
                     <img
                         class="title-img"
-                        src="../js/img/pictures/html.png"
+                        src="./js/img/pictures/html.png"
                         alt="HTML"
                     />
                     <div class="title">
@@ -1012,7 +1012,7 @@ function y() {
                         <div class="bonus-card bonus-card-disabled">
                             <img
                                 class="bonus-card__img"
-                                src="../js/img/icons/leaflet.svg"
+                                src="./js/img/icons/leaflet.svg"
                                 alt=""
                             />
                             <div class="bonus-card__title">
@@ -1022,7 +1022,7 @@ function y() {
                         <div class="bonus-card bonus-card-disabled">
                             <img
                                 class="bonus-card__img"
-                                src="../js/img/icons/video-tutorial.png"
+                                src="./js/img/icons/video-tutorial.png"
                                 alt=""
                             />
                             <div class="bonus-card__title">
